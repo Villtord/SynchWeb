@@ -228,6 +228,7 @@ e.g. 0,0,-1,-1 # Selecting the beta set in the same way as the alpha set. Not ne
                     <span><a href="https://materialsproject.org/">https://materialsproject.org/</a></span>
                     <p>If you use the Materials Project as a resource in your research, please cite the following work:</p>
                     <p><i>APL Materials, 2013, 1(1), 011002.</i></p>
+                    <p><i>Computational Materials Science, 2015, 97, 209–215.</i></p>
                 </div>
                 <br />
                 <br /><br />
